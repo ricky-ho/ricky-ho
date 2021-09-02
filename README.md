@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Ricky Ho and I am a software developer with an emphasis on front-end web development. I enjoy creating responsive and interactive web applications.
+
+
+
 <!--
 **ricky-ho/ricky-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
