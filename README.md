@@ -6,7 +6,7 @@
 
 <p>Thanks for taking the time to visit my Github!</p>
 <p>
-  I am a software developer based in San Francisco with an emphasis on frontend development. 
+  I am a software engineer based in San Francisco with an emphasis on frontend development. 
   I enjoy creating responsive & interactive web applications and experiences.
 </p>
 
