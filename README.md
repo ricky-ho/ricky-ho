@@ -1,19 +1,19 @@
 # Hi there, I'm [Ricky](https://rickyho.dev) 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3366cc?style=flat-square&logo=microsoftedge&logoColor=white&labelColor=3366cc)](https://rickyho.dev)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-3366cc?style=flat-square&logo=microsoftedge&logoColor=white&labelColor=3366cc)](https://rickyho.dev) -->
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/riho-1)
 [![Email](https://img.shields.io/badge/Email-ff4d4d?style=flat-square&logo=gmail&logoColor=white&labelColor=ff4d4d)](mailto:horicky.cs@gmail.com)
 
 <p>Thanks for taking the time to visit my Github!</p>
 <p>
-  I am a software engineer based in San Francisco with an emphasis on frontend development. 
+  I am a software engineer based in San Francisco with an emphasis on frontend. 
   I enjoy creating responsive & interactive web applications and experiences.
 </p>
 
 - 👨‍🎓 UCLA Graduate with a B.S. in Mathematics & Computer Science.
-- 🔭 Currently working on a personal full-stack web application using Nodejs/Express with MongoDB.
-- 📚 Currently learning back-end development and polishing my UX/UI design skills.
-- 📑 Check out my [resume](https://rickyho.dev/resume.pdf) and [portfolio website](https://rickyho.dev).
+<!-- - 🔭 Currently working on a personal full-stack web application using Nodejs/Express with MongoDB. -->
+<!-- - 📚 Currently learning back-end development and polishing my UX/UI design skills. -->
+<!-- - 📑 Check out my [resume](https://rickyho.dev/resume.pdf) and [portfolio website](https://rickyho.dev). -->
 - ⚡ Fun fact: I enjoy reading up on the latest stock market news and investing.
 
 ## Tools & Technology that I'm familiar with:
